@@ -1,18 +1,3 @@
-# most recent improvement of code - significant change was the combining of all the levels into 1 function
-
-# justification for how its a "educational resource" for GCSE students.
-
-# in a level further maths in the decision module we covered graph theory and i remember it feeling very abstract and unapplicable
-# to real life. for GCSE students who are going to go on to take a level further maths
-# this introduces some concepts early on related to graph theory in a real world practical way
-
-# maths teachers can explain that when students play the game they are essentially working out the shortest path between "nodes"
-# of the graph not too differently from the travelling salesman problem which they will cover in more depth at A-level further maths
-
-# after having played the games an exercise they could attempt to draw the different levels in terms of graphs
-# eg count the number of blocks between
-# the respective nodes to calculate the weight of the edges
-
 import pygame
 from pygame.locals import *
 
