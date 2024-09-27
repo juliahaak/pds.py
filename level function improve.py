@@ -357,6 +357,7 @@ class Game:
         self.running = True
         self.game_over = False
 
+
         while self.running:
             self.bg.draw_map()
             self.drop_off_pet()
@@ -426,3 +427,4 @@ class Game:
 if __name__ == '__main__':
     game = Game()
     game.level(1)
+
